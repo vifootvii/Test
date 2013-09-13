@@ -12,6 +12,8 @@
 
 @implementation PLAppDelegate
 
+//test comment
+
 @synthesize managedObjectContext = _managedObjectContext;
 @synthesize managedObjectModel = _managedObjectModel;
 @synthesize persistentStoreCoordinator = _persistentStoreCoordinator;
