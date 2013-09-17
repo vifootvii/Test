@@ -13,7 +13,7 @@
 @implementation PLAppDelegate
 
 //test commentfghfghf
-//another ZXCasdZXCasdasdsdfsdfsdfasdfasfasdfasdfasdf
+//another ZXCasdZXCasdasdsdfsdfsdfasdfasfasdfasdfasdfsdf
 
 @synthesize managedObjectContext = _managedObjectContext;
 @synthesize managedObjectModel = _managedObjectModel;
